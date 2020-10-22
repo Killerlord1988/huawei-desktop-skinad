@@ -1,0 +1,13 @@
+.button {
+  font-size: 25px;
+  background-color: $color-red;
+  color: $color-white;
+  padding: 11px 20px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  width: 211px;
+  animation: scale 3s linear infinite;
+}
